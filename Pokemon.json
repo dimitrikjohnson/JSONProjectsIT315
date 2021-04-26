@@ -1,0 +1,94 @@
+{
+	"Pokemon": [
+		{
+			"name": "Absol",
+			"type": "Dark",
+			"number": "359",
+			"category": "Disaster Pokémon",
+			"description": "Every time ABSOL appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon.",
+			"image": "absol.jpg",
+			"site": "https://pokemondb.net/pokedex/absol",
+			"sound": "absolSound.mp3"
+		},
+		{
+			"name": "Corviknight",
+			"type": "Flying",
+			"number": "823",
+			"category": "Raven Pokémon",
+			"description": "Corviknight possess superb flying skills and high intelligence. It is said that Corviknight is the strongest Pokémon living in the skies of the Galar region.",
+			"image": "corviknight.jpg",
+			"site": "https://pokemondb.net/pokedex/corviknight",
+			"sound": "corviknightSound.mp3"
+		},
+		{
+			"name": "Infernape",
+			"type": "Fire",
+			"number": "392",
+			"category": "Flame Pokémon",
+			"description": "Infernape uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
+			"image": "infernape.jpg",
+			"site": "https://pokemondb.net/pokedex/infernape",
+			"sound": "infernapeSound.jpg"
+		},
+		{
+			"name": "Gengar",
+			"type": "Ghost",
+			"number": "094",
+			"category": "Shadow Pokémon",
+			"description": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+			"image": "gengar.jpg",
+			"site": "https://pokemondb.net/pokedex/gengar",
+			"sound": "gengarSound.mp3"
+		},
+		{
+			"name": "Milotic",
+			"type": "Water",
+			"number": "350",
+			"category": "Tender Pokémon",
+			"description": "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
+			"image": "milotic.jpg",
+			"site": "https://pokemondb.net/pokedex/milotic",
+			"sound": "miloticSound.mp3"
+		},
+		{
+			"name": "Lucario",
+			"type": "Fighting",
+			"number": "448",
+			"category": "Aura Pokémon",
+			"description": "Lucario has the ability to sense the auras of all things. It understands human speech.",
+			"image": "lucario.jpg",
+			"site": "https://pokemondb.net/pokedex/lucario",
+			"sound": "lucarioSound.mp3"
+		},
+		{
+			"name": "Jolteon",
+			"type": "Electric",
+			"number": "135",
+			"category": "Lightning Pokémon",
+			"description": "Jolteon accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts.",
+			"image": "jolteon.jpg",
+			"site": "https://pokemondb.net/pokedex/jolteon",
+			"sound": "jolteonSound.mp3"
+		},
+		{
+			"name": "Cloyster",
+			"type": "Water",
+			"number": "282",
+			"category": "Bivalve Pokémon",
+			"description": "When attacked, Cloyster launches its horns in quick volleys. Its innards have never been seen.",
+			"image": "cloyster.jpg",
+			"site": "https://pokemondb.net/pokedex/cloyster",
+			"sound": "cloysterSound.mp3"
+		},
+		{
+			"name": "Gardevoir",
+			"type": "Psychic",
+			"number": "282",
+			"category": "Embrace Pokémon",
+			"description": "Gardevoir has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.",
+			"image": "gardevoir.jpg",
+			"site": "https://pokemondb.net/pokedex/gardevoir",
+			"sound": "gardevoirSound.mp3"
+		}
+	]
+}
