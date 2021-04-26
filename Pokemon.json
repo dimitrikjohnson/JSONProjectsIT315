@@ -13,6 +13,7 @@
 		{
 			"name": "Corviknight",
 			"type": "Flying",
+			"type2": "Steel",
 			"number": "823",
 			"category": "Raven Pokémon",
 			"description": "Corviknight possess superb flying skills and high intelligence. It is said that Corviknight is the strongest Pokémon living in the skies of the Galar region.",
@@ -23,6 +24,7 @@
 		{
 			"name": "Infernape",
 			"type": "Fire",
+			"type2": "Fighting",
 			"number": "392",
 			"category": "Flame Pokémon",
 			"description": "Infernape uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
@@ -33,6 +35,7 @@
 		{
 			"name": "Gengar",
 			"type": "Ghost",
+			"type2": "Poison",
 			"number": "094",
 			"category": "Shadow Pokémon",
 			"description": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
@@ -53,6 +56,7 @@
 		{
 			"name": "Lucario",
 			"type": "Fighting",
+			"type2": "Steel",
 			"number": "448",
 			"category": "Aura Pokémon",
 			"description": "Lucario has the ability to sense the auras of all things. It understands human speech.",
@@ -73,6 +77,7 @@
 		{
 			"name": "Cloyster",
 			"type": "Water",
+			"type2": "Ice",
 			"number": "282",
 			"category": "Bivalve Pokémon",
 			"description": "When attacked, Cloyster launches its horns in quick volleys. Its innards have never been seen.",
@@ -83,6 +88,7 @@
 		{
 			"name": "Gardevoir",
 			"type": "Psychic",
+			"type2": "Fairy",
 			"number": "282",
 			"category": "Embrace Pokémon",
 			"description": "Gardevoir has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.",
