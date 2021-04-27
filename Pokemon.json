@@ -8,8 +8,7 @@
 			"category": "Disaster Pokémon",
 			"description": "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon.",
 			"image": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/absol.jpg",
-			"site": "https://pokemondb.net/pokedex/absol",
-			"sound": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/absolSound.mp3"
+			"site": "https://pokemondb.net/pokedex/absol"
 		},
 		{
 			"name": "Corviknight",
@@ -19,8 +18,7 @@
 			"category": "Raven Pokémon",
 			"description": "Corviknight possess superb flying skills and high intelligence. It is said that Corviknight is the strongest Pokémon living in the skies of the Galar region.",
 			"image": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/corviknight.jpg",
-			"site": "https://pokemondb.net/pokedex/corviknight",
-			"sound": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/corviknightSound.mp3"
+			"site": "https://pokemondb.net/pokedex/corviknight"
 		},
 		{
 			"name": "Infernape",
@@ -30,8 +28,7 @@
 			"category": "Flame Pokémon",
 			"description": "Infernape uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
 			"image": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/infernape.jpg",
-			"site": "https://pokemondb.net/pokedex/infernape",
-			"sound": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/infernapeSound.mp3"
+			"site": "https://pokemondb.net/pokedex/infernape"
 		},
 		{
 			"name": "Gengar",
@@ -41,8 +38,7 @@
 			"category": "Shadow Pokémon",
 			"description": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
 			"image": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/gengar.jpg",
-			"site": "https://pokemondb.net/pokedex/gengar",
-			"sound": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/gengarSound.mp3"
+			"site": "https://pokemondb.net/pokedex/gengar"
 		},
 		{
 			"name": "Milotic",
@@ -52,8 +48,7 @@
 			"category": "Tender Pokémon",
 			"description": "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
 			"image": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/milotic.jpg",
-			"site": "https://pokemondb.net/pokedex/milotic",
-			"sound": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/miloticSound.mp3"
+			"site": "https://pokemondb.net/pokedex/milotic"
 		},
 		{
 			"name": "Lucario",
@@ -63,8 +58,7 @@
 			"category": "Aura Pokémon",
 			"description": "Lucario has the ability to sense the auras of all things. It understands human speech.",
 			"image": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/lucario.jpg",
-			"site": "https://pokemondb.net/pokedex/lucario",
-			"sound": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/lucarioSound.mp3"
+			"site": "https://pokemondb.net/pokedex/lucario"
 		},
 		{
 			"name": "Jolteon",
@@ -74,8 +68,7 @@
 			"category": "Lightning Pokémon",
 			"description": "Jolteon accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts.",
 			"image": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/jolteon.jpg",
-			"site": "https://pokemondb.net/pokedex/jolteon",
-			"sound": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/jolteonSound.mp3"
+			"site": "https://pokemondb.net/pokedex/jolteon"
 		},
 		{
 			"name": "Cloyster",
@@ -85,8 +78,7 @@
 			"category": "Bivalve Pokémon",
 			"description": "When attacked, Cloyster launches its horns in quick volleys. Its innards have never been seen.",
 			"image": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/cloyster.jpg",
-			"site": "https://pokemondb.net/pokedex/cloyster",
-			"sound": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/cloysterSound.mp3"
+			"site": "https://pokemondb.net/pokedex/cloyster"
 		},
 		{
 			"name": "Gardevoir",
@@ -96,8 +88,7 @@
 			"category": "Embrace Pokémon",
 			"description": "Gardevoir has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.",
 			"image": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/gardevoir.jpg",
-			"site": "https://pokemondb.net/pokedex/gardevoir",
-			"sound": "https://raw.githubusercontent.com/dimitrikjohnson/JSONProjectsIT315/master/gardevoirSound.mp3"
+			"site": "https://pokemondb.net/pokedex/gardevoir"
 		}
 	]
 }
